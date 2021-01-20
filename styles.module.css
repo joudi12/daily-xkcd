@@ -8,3 +8,12 @@
 .hello:hover {
   background: #ccc;
 }
+.main{
+  background-color:rgb(255, 250, 240);
+}
+.footer{
+  padding: 10px;
+}
+.header{
+  padding: 10px;
+}
