@@ -6,6 +6,9 @@
 
 ---
 ---
+## the deploy link : https://daily-xkcd-phi.vercel.app/
+---
+---
 
 # Basic CSS example
 
