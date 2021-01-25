@@ -10,10 +10,15 @@
 }
 .main{
   background-color:rgb(255, 250, 240);
+  text-align: center;
 }
 .footer{
   padding: 10px;
 }
 .header{
   padding: 10px;
+}
+.button{
+  margin: 30px;
+
 }
